@@ -1,169 +1,94 @@
-<!-- MATRIX STYLE ANIMATED BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=01001000+01100101+01101100+01101100+01101111+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+TERMINAL+CONNECTED+.+.+.;$+IDENTITY+VERIFIED:+FAHEEM-HACKER;$+WELCOME+TO+FAHEEM'S+CYBERSECURITY+LABORATORY;$+INITIALIZING+SECURE+SESSION+.+.+." alt="Typing SVG" />
-</div>
+<!-- PROFILE README for Faheem Hacker -->
+<!-- Replace any links/emails you want to change. -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=90&lines=01001000+01100101+01101100+01101100+01101111+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+IDENTITY+VERIFIED:+FAHEEM+HACKER;$+WELCOME+TO+MY+CYBERSECURITY+LAB+.&nbsp;&nbsp;&nbsp;" alt="typing" />
+  <h1 align="center">Faheem Hacker — Penetration Tester · Bug Hunter · CTF Player</h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cyberajju&label=Profile%20views&color=00ff00&style=flat-square&logo=ghost" alt="FAHEEM-HACKER" />
-  <a href="https://www.youtube.com/@cybertechajju"><img src="https://img.shields.io/youtube/channel/subscribers/UCiKcQN5fu7Cl9zNnk84yNhA?style=flat-square&logo=youtube&label=YouTube&color=FF0000" alt="YouTube"/></a>
-  <a href="#"><img src="https://img.shields.io/twitter/follow/Ajjukumar3856?logo=twitter&style=flat-square&color=00ff00" alt="@OWNER_BLACK_MARKET" /></a>
-</p>
-
-<!-- HACKER ATTITUDE QUOTE WITH TEXT ANIMATION -->
-<div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <div align="center">
-          <h3>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">I don't need sleep, I need answers.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">The quieter you become, the more you are able to hear.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Real hackers don't wear hoodies, they wear invisibility.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Hack the planet!</span></p>
-          </h3>
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <img align="center" width="250" src="https://media.giphy.com/media/v1.Y2lkPTBtzaNEnR5mhd4qtA5vTiTyx6s4oVe73ExzLbqriBbfe9sXnnZBpud5H45uVqzvi8F7qS1DXc1eazyWTHTq6JMdURSqqrFGTzGL8eF1Zw/kPVTbiTORIopy/giphy.gif" alt="Hacker Animation"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr/>
-
-<!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
-<h1 align="center">????? About Me</h1>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1DXc1eazyWTHTq6JMdURSqqrFGTzGL8eF10bb8ded371128dc3fe9b84b5464e42/6874747071DXc1eazyWTHTq6JMdURSqqrFGTzGL8eF1f6d2f726550446644574f1DXc1eazyWTHTq6JMdURSqqrFGTzGL8eF1676966" width="350" height="220" align="right" />
-  <ul>
-    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Passionate PAISTAN cyber sentinel, bug hunter ??, and CTF player</b> </li>
-    <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>ScanVortex - Advanced Network Security Tool</i> </li>
-    <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>R & Python programming, PHP, Advanced Penetration Testing</i> </li>
-    <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Cybersecurity projects, CTF teams</i> </li>
-    <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Constantly hunting for vulnerabilities in web applications</b> </li>
-    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>cybertech3856@gmail.com</i> </li>
-    <li> <img src="https://media.giphy.com/media/v1.Y2lkPTBtzaNEnR5mhd4qtA5vTiTyx6s4oVe73ExjbzVzOTBtzaNEnR5mhd4qtA5vTiTyx6s4oVe73ExpbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uIkGU8VIRQJsUKU8s/giphy.gif" width="25"> <b>Fun fact</b>: <i>In a world of 1s and 0s, I'm the prankster of the matrix.</i> </li>
-  </ul>
-</p>
-
-<hr/>
-
-<!-- SKILLS SECTION -->
-<h1 align="center">? Technical Arsenal ?</h1>
-
-<!-- CYBERSECURITY SKILLS -->
-<h3 align="center">?? Cybersecurity Expertise ??</h3>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Penetration_Testing-DD0031?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vulnerability_Assessment-3178C6?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CTF_Player-7952B3?style=for-the-badge&logo=hackaday&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OSINT-00979D?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bug_Bounty-F05032?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Malware_Analysis-512BD4?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Network_Security-61DAFB?style=for-the-badge&logo=cisco&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SIEM-4EAA25?style=for-the-badge&logo=splunk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Threat_Intelligence-764ABC?style=for-the-badge&logo=threatconnect&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Digital_Forensics-FF9900?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Web_App_Security-6771E5?style=for-the-badge&logo=owasp&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=ghidra&logoColor=white" /></a>
-</p>
-
-<!-- PROGRAMMING LANGUAGES -->
-<h3 align="center">?? Programming Languages & Tools ??</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,php,js,r,c,ruby,powershell&perline=8" /></a>
-</p>
-
-<!-- TOOLS & TECHNOLOGIES -->
-<h3 align="center">?? Tools & Technologies ??</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,aws,vim,nginx,vscode&perline=8" /></a>
-</p>
-
-<!-- SPECIALIZED TOOLS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2962FF?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-777BB4?style=for-the-badge&logo=john&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-2C8EBB?style=for-the-badge&logo=sqlmap&logoColor=white" />
-</p>
-
-<hr/>
-
-<!-- GITHUB STATS with animated graphs -->
-<h1 align="center">?? GitHub Analytics ??</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyberajju&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1" width="800" />
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberajju&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberajju&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
-</div>
-
-
-
-<p align="center">
-   <img width="600" src="
-https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreuse-dark&hide_border=true&stroke=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00" />
-</p>
-
-
-<!-- ACTIVITY GRAPH with enhanced animation -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberajju&custom_title=Ajju's%20Underground%20Contributions&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&line=00FF00&point=FFFFFF" width="800"/>
-</p>
-
-<!-- WORKING SNAKE ANIMATION -->
-<div align="center">
-  <br>
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    </picture>
+    <a href="https://www.youtube.com/@faheemhacker8183"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+    <a href="https://t.me/OWNER_BLACK_MARKET"><img src="https://img.shields.io/badge/Telegram-Chat-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+    <a href="https://chat.whatsapp.com/JxLom1JXjmz3WBH3aN2Io5"><img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group" /></a>
+    <a href="https://t.me/+_rxxJjvacx05MzM8"><img src="https://img.shields.io/badge/Telegram_Channel-Info-00B2A9?style=for-the-badge&logo=telegram" alt="Telegram Channel" /></a>
   </p>
-  <br>
 </div>
 
-<!-- CONNECT WITH ME SECTION -->
-<h1 align="center">?? Connect With Me</h1>
+---
+
+# 👋 About Me
+I am **Faheem Hacker** — a Muslim and proud **Pakistani** cybersecurity enthusiast focused on penetration testing, bug bounty hunting and Capture The Flag (CTF) competitions.
+
+- 🔭 Currently working on: **ScanVortex** — an advanced network security/reconnaissance tool  
+- 🧠 Exploring: **R**, **Python**, **PHP**, and advanced pentesting methodologies  
+- 🛠️ Focus: Web application security, automated scanning, vulnerability hunting  
+- ✉️ Reach me: `cybertech3856@gmail.com`
+
+---
+
+# 🟢 Mini Profile (مختصر پروفائل)
+> Passionate Pakistani security researcher with a practical, results-driven approach. I build automation tools for scanning and reconnaissance, discover web vulnerabilities, and collaborate in CTFs to sharpen real-world offensive security skills. Always ethical — I test only with permission.
+
+---
+
+# ⚡ Hacking Intro — Short Pitch (ہیکنگ انٹرو)
+> "I break things to make them stronger. I combine automated reconnaissance with manual verification to find meaningful vulnerabilities — from misconfigurations to critical RCEs. If it's exploitable, I document it clearly and propose actionable fixes."
+
+---
+
+# 🧰 Technical Arsenal
+**Tools & Platforms**
+- Kali Linux · Burp Suite · Nmap · Metasploit · wfuzz · sqlmap · dirsearch
+
+**Languages**
+- Python · Bash · PHP · R
+
+**Areas**
+- Web App Pentesting · OSINT · Network Scanning · Bug Bounty · CTFs
+
+---
+
+# 🚀 Projects
+### ScanVortex
+A project I’m developing for intelligent network reconnaissance and vulnerability discovery.
+- Features: mass-host discovery, prioritized fingerprinting, plugin-based checks
+- Status: actively developing — contributions and collaborators welcome
+
+*(Add repo links for each project here when available)*
+
+---
+
+# 🏆 Roles & Interests
+- Penetration Tester  
+- Bug Hunter (Bug Bounty)  
+- CTF Player & Team Member  
+- Security Researcher / Ethical Hacker
+
+---
+
+# 📫 Contact & Socials
+- YouTube: https://www.youtube.com/@faheemhacker8183  
+- Telegram (personal): https://t.me/OWNER_BLACK_MARKET  
+- Telegram Channel: https://t.me/+_rxxJjvacx05MzM8  
+- WhatsApp Group: https://chat.whatsapp.com/JxLom1JXjmz3WBH3aN2Io5  
+- Email: cybertech3856@gmail.com
+
+---
+
+# ⚡ Fun Facts
+- In a world of 1s and 0s, I like to be the prankster of the matrix.  
+- Motto: *“I don't need sleep, I need answers.”*
+
+---
+
+# 🔧 How to customize this README
+1. Create a repo named exactly as your GitHub username (e.g., `FaheemHacker` or your username).  
+2. Add a `README.md` file in the repository root and paste this markdown.  
+3. Replace any placeholder text, badges or links you want to change.  
+4. Add project links under **Projects** and social links for better badges.  
+5. Optionally add GIFs or images — keep file sizes reasonable.
+
+---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Ajju-meena"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/theonly_ajju"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@cybertechajju"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://fb.com/cybertechajju"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-<!-- BLOG & CONTENT -->
-<p align="center">
-  <a href="https://cyberajju.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="mailto:cybertech3856@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<hr/>
-
-<!-- SUPPORT SECTION -->
-<h1 align="center">? Support My Work</h1>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/cyberajju"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="cyberajju" /></a>
-  <a href="https://ko-fi.com/cyberajju"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cyberajju" /></a>
-</p>
-
-<!-- GLITCH EFFECT FOOTER WITH QUOTE -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=100&lines=KEEP+LEARNING%2C+KEEP+HACKING;THE+QUIETER+YOU+BECOME%2C+THE+MORE+YOU+ARE+ABLE+TO+HEAR;HACK+THE+PLANET;IT'S+NOT+A+BUG%2C+IT'S+A+FEATURE!" alt="Typing SVG" /></a>
+  <sub>Made with ❤ by Faheem Hacker · Keep hunting responsibly — always have permission before testing systems.</sub>
 </p>
