@@ -1,94 +1,52 @@
-<!-- PROFILE README for Faheem Hacker -->
-<!-- Replace any links/emails you want to change. -->
-
+<!-- MATRIX STYLE ANIMATED BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=90&lines=01001000+01100101+01101100+01101100+01101111+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+IDENTITY+VERIFIED:+FAHEEM+HACKER;$+WELCOME+TO+MY+CYBERSECURITY+LAB+.&nbsp;&nbsp;&nbsp;" alt="typing" />
-  <h1 align="center">Faheem Hacker — Penetration Tester · Bug Hunter · CTF Player</h1>
-
-  <p align="center">
-    <a href="https://www.youtube.com/@faheemhacker8183"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
-    <a href="https://t.me/OWNER_BLACK_MARKET"><img src="https://img.shields.io/badge/Telegram-Chat-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-    <a href="https://chat.whatsapp.com/JxLom1JXjmz3WBH3aN2Io5"><img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group" /></a>
-    <a href="https://t.me/+_rxxJjvacx05MzM8"><img src="https://img.shields.io/badge/Telegram_Channel-Info-00B2A9?style=for-the-badge&logo=telegram" alt="Telegram Channel" /></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=01000110+01100001+01101000+01100101+01100101+01101101+00100000+01001000+01100001+01100011+01101011+01100101+01110010+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+TERMINAL+CONNECTED+.+.+.;$+IDENTITY+VERIFIED:+FAHEEM+HACKER;$+WELCOME+TO+BLACK+MARKET+SECURITY+LAB;$+INITIALIZING+SECURE+SESSION+.+.+." alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=ETHICAL+HACKER;SECURITY+RESEARCHER;PENETRATION+TESTER;BUG+BOUNTY+HUNTER;CYBERSECURITY+EXPERT" alt="Hacker Roles" />
+</div>
 
-# 👋 About Me
-I am **Faheem Hacker** — a Muslim and proud **Pakistani** cybersecurity enthusiast focused on penetration testing, bug bounty hunting and Capture The Flag (CTF) competitions.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=faheemhacker&label=Profile%20views&color=00ff00&style=flat-square&logo=ghost" alt="faheemhacker" />
+  <a href="https://www.youtube.com/@faheemhacker8183"><img src="https://img.shields.io/youtube/channel/subscribers/UCiKcQN5fu7Cl9zNnk84yNhA?style=flat-square&logo=youtube&label=YouTube&color=FF0000" alt="YouTube"/></a>
+  <a href="https://t.me/OWNER_BLACK_MARKET"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group"/></a>
+</p>
 
-- 🔭 Currently working on: **ScanVortex** — an advanced network security/reconnaissance tool  
-- 🧠 Exploring: **R**, **Python**, **PHP**, and advanced pentesting methodologies  
-- 🛠️ Focus: Web application security, automated scanning, vulnerability hunting  
-- ✉️ Reach me: `cybertech3856@gmail.com`
+<!-- HACKER ATTITUDE QUOTE WITH TEXT ANIMATION -->
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <div align="center">
+          <h3>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">In the digital shadows, I find the truth.</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Security isn't a product, it's a process.</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">The matrix has its rules, I find the exceptions.</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Hack the system, secure the future!</span></p>
+          </h3>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <img align="center" width="250" src="https://media.giphy.com/media/kU7867u5rNk21Nw8ss/giphy.gif" alt="Hacker Animation"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<hr/>
 
-# 🟢 Mini Profile (مختصر پروفائل)
-> Passionate Pakistani security researcher with a practical, results-driven approach. I build automation tools for scanning and reconnaissance, discover web vulnerabilities, and collaborate in CTFs to sharpen real-world offensive security skills. Always ethical — I test only with permission.
-
----
-
-# ⚡ Hacking Intro — Short Pitch (ہیکنگ انٹرو)
-> "I break things to make them stronger. I combine automated reconnaissance with manual verification to find meaningful vulnerabilities — from misconfigurations to critical RCEs. If it's exploitable, I document it clearly and propose actionable fixes."
-
----
-
-# 🧰 Technical Arsenal
-**Tools & Platforms**
-- Kali Linux · Burp Suite · Nmap · Metasploit · wfuzz · sqlmap · dirsearch
-
-**Languages**
-- Python · Bash · PHP · R
-
-**Areas**
-- Web App Pentesting · OSINT · Network Scanning · Bug Bounty · CTFs
-
----
-
-# 🚀 Projects
-### ScanVortex
-A project I’m developing for intelligent network reconnaissance and vulnerability discovery.
-- Features: mass-host discovery, prioritized fingerprinting, plugin-based checks
-- Status: actively developing — contributions and collaborators welcome
-
-*(Add repo links for each project here when available)*
-
----
-
-# 🏆 Roles & Interests
-- Penetration Tester  
-- Bug Hunter (Bug Bounty)  
-- CTF Player & Team Member  
-- Security Researcher / Ethical Hacker
-
----
-
-# 📫 Contact & Socials
-- YouTube: https://www.youtube.com/@faheemhacker8183  
-- Telegram (personal): https://t.me/OWNER_BLACK_MARKET  
-- Telegram Channel: https://t.me/+_rxxJjvacx05MzM8  
-- WhatsApp Group: https://chat.whatsapp.com/JxLom1JXjmz3WBH3aN2Io5  
-- Email: cybertech3856@gmail.com
-
----
-
-# ⚡ Fun Facts
-- In a world of 1s and 0s, I like to be the prankster of the matrix.  
-- Motto: *“I don't need sleep, I need answers.”*
-
----
-
-# 🔧 How to customize this README
-1. Create a repo named exactly as your GitHub username (e.g., `FaheemHacker` or your username).  
-2. Add a `README.md` file in the repository root and paste this markdown.  
-3. Replace any placeholder text, badges or links you want to change.  
-4. Add project links under **Projects** and social links for better badges.  
-5. Optionally add GIFs or images — keep file sizes reasonable.
-
----
+<!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
+<h1 align="center">?? About Faheem Hacker</h1>
 
 <p align="center">
-  <sub>Made with ❤ by Faheem Hacker · Keep hunting responsibly — always have permission before testing systems.</sub>
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="220" align="right" />
+  <ul>
+    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Professional Ethical Hacker & Security Researcher</b> </li>
+    <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>Advanced Penetration Testing Frameworks</i> </li>
+    <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>Blockchain Security, IoT Hacking, Advanced Malware Analysis</i> </li>
+    <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Security Research, Bug Bounty Programs</i> </li>
+    <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Specialized in</b>: <i>Network Security, Web Application Security</i> </li>
+    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Contact via</b>: <i>Telegram: @OWNER_BLACK_MARKET</i> </li>
+    <li> <img src="https://media.giphy.com/media/v1.Y2lkPTDZKx9kaRsACkzSxXUAASRB2njGDRVwMNX0c2V6Z2h6a19VzhDPz3r2AJNKxVDYMPM3N43i26cEkhL6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2
