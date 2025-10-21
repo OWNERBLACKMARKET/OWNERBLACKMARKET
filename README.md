@@ -1,10 +1,10 @@
-<!-- MATRIX STYLE ANIMATED BANNER -->
+<!-- ???? PAKISTANI MUSLIM HACKER ANIMATED BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=01000110+01100001+01101000+01100101+01100101+01101101+00100000+01001000+01100001+01100011+01101011+01100101+01110010+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+TERMINAL+CONNECTED+.+.+.;$+IDENTITY+VERIFIED:+FAHEEM+HACKER;$+WELCOME+TO+BLACK+MARKET+SECURITY+LAB;$+INITIALIZING+SECURE+SESSION+.+.+." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=?????? ??????? ???????????? ??????????;$+ASSALAMU+ALAIKUM+FELLOW+HACKERS;$+IDENTITY+VERIFIED:+FAHEEM+HACKER+????;$+PAKISTANI+MUSLIM+ETHICAL+HACKER;$+IN+THE+NAME+OF+ALLAH+THE+MOST+MERCIFUL" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=ETHICAL+HACKER;SECURITY+RESEARCHER;PENETRATION+TESTER;BUG+BOUNTY+HUNTER;CYBERSECURITY+EXPERT" alt="Hacker Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=PAKISTANI+ETHICAL+HACKER;MUSLIM+SECURITY+RESEARCHER;QURAN+GUIDED+HACKER;DIGITAL+MUJAHID;CYBERSECURITY+EXPERT+????" alt="Hacker Roles" />
 </div>
 
 <p align="center"> 
@@ -12,24 +12,26 @@
   <a href="https://www.youtube.com/@faheemhacker8183"><img src="https://img.shields.io/youtube/channel/subscribers/UCiKcQN5fu7Cl9zNnk84yNhA?style=flat-square&logo=youtube&label=YouTube&color=FF0000" alt="YouTube"/></a>
   <a href="https://t.me/OWNER_BLACK_MARKET"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group"/></a>
+  <img src="https://img.shields.io/badge/Religion-Islam-009000?style=for-the-badge&logo=star-of-david&logoColor=white" alt="Muslim" />
+  <img src="https://img.shields.io/badge/Nationality-Pakistani-00401A?style=for-the-badge&logo=globe&logoColor=white" alt="Pakistani" />
 </p>
 
-<!-- HACKER ATTITUDE QUOTE WITH TEXT ANIMATION -->
+<!-- ???? PAKISTANI HACKER ATTITUDE QUOTE -->
 <div align="center">
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
         <div align="center">
           <h3>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">In the digital shadows, I find the truth.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Security isn't a product, it's a process.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">The matrix has its rules, I find the exceptions.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Hack the system, secure the future!</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">????</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">"In the digital battlefield, I fight for truth and justice"</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">??</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">"My code is my prayer, my keyboard is my weapon"</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">?</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">"From the land of pure, I secure the digital world"</span></p>
+            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">???</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">"Ethical hacking is my jihad in the digital age"</span></p>
           </h3>
         </div>
       </td>
       <td width="50%" align="center">
-        <img align="center" width="250" src="https://media.giphy.com/media/kU7867u5rNk21Nw8ss/giphy.gif" alt="Hacker Animation"/>
+        <img align="center" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpV4r/giphy.gif" alt="Pakistani Hacker Animation"/>
       </td>
     </tr>
   </table>
@@ -37,16 +39,124 @@
 
 <hr/>
 
-<!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
-<h1 align="center">?? About Faheem Hacker</h1>
+<!-- ?? ABOUT PAKISTANI MUSLIM HACKER -->
+<h1 align="center">?? About Faheem Hacker ????</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/Xed7bGPHSwQ8WLPu9C/giphy.gif" width="350" height="220" align="right" />
+  
+  <!-- Animated Islamic Star -->
+  <div align="left">
+    <img src="https://media.giphy.com/media/hU6VlqZeM5Tz34aC2k/giphy.gif" width="50" height="50" style="float: left; margin-right: 10px;">
+    <h3 style="color: #00ff00;">? Pakistani Muslim Ethical Hacker</h3>
+  </div>
+  
+  <ul style="text-align: left;">
+    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>???? Proud Pakistani Muslim Security Researcher</b> </li>
+    <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>Islamic Cybersecurity Framework</i> </li>
+    <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>Quranic Principles in Digital Security</i> </li>
+    <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Mission</b>: <i>Protecting Ummah's Digital Frontiers</i> </li>
+    <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Specialized in</b>: <i>Shariah-Compliant Ethical Hacking</i> </li>
+    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Contact</b>: <i>Telegram: @OWNER_BLACK_MARKET</i> </li>
+    <li> <img src="https://media.giphy.com/media/l4Ep8Z2AVUEFlO4i4/giphy.gif" width="25"> <b>Belief</b>: <i>"The best among you are those who learn Quran and teach it"</i> </li>
+  </ul>
+</div>
+
+<hr/>
+
+<!-- ?? TECHNICAL ARSENAL WITH PAKISTANI THEME -->
+<h1 align="center">? Technical Arsenal ????</h1>
+
+<!-- CYBERSECURITY SKILLS -->
+<h3 align="center">??? Cybersecurity Expertise</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="220" align="right" />
-  <ul>
-    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Professional Ethical Hacker & Security Researcher</b> </li>
-    <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>Advanced Penetration Testing Frameworks</i> </li>
-    <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>Blockchain Security, IoT Hacking, Advanced Malware Analysis</i> </li>
-    <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Security Research, Bug Bounty Programs</i> </li>
-    <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Specialized in</b>: <i>Network Security, Web Application Security</i> </li>
-    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Contact via</b>: <i>Telegram: @OWNER_BLACK_MARKET</i> </li>
-    <li> <img src="https://media.giphy.com/media/v1.Y2lkPTDZKx9kaRsACkzSxXUAASRB2njGDRVwMNX0c2V6Z2h6a19VzhDPz3r2AJNKxVDYMPM3N43i26cEkhL6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2J6Z2
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-4ECDC4?style=for-the-badge&logo=key&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-45B7D1?style=for-the-badge&logo=bug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-96CEB4?style=for-the-badge&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Security-FAE100?style=for-the-badge&logo=web&logoColor=black" />
+</p>
+
+<!-- PROGRAMMING LANGUAGES -->
+<h3 align="center">?? Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<!-- TOOLS & TECHNOLOGIES -->
+<h3 align="center">?? Hacking Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00C7D4?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+<hr/>
+
+<!-- ?? GITHUB STATS WITH PAKISTANI FLAG COLORS -->
+<h1 align="center">?? GitHub Analytics ????</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faheemhacker&show_icons=true&theme=dark&bg_color=00401A&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemhacker&layout=compact&theme=dark&bg_color=00401A&title_color=00FF00&text_color=FFFFFF&border_color=00FF00" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemhacker&theme=dark&background=00401A&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" />
+</div>
+
+<hr/>
+
+<!-- ?? ISLAMIC QUOTE ANIMATION -->
+<h1 align="center">?? Islamic Inspiration</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arabic&weight=600&size=20&duration=4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVwho+are+patient;And+say,++Do+[as+you+will],+for+Allah+will+see+your+deeds;So+verily,+with+the+hardship,+there+is+relief;The+best+among+you+are+those+who+learn+and+teach" alt="Islamic Quotes" />
+</div>
+
+<!-- ?? TROPHIES -->
+<h1 align="center">?? GitHub Achievements</h1>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faheemhacker&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15&title=Stars,Commit,Followers,Repositories,PullRequest&row=2&column=3" />
+</div>
+
+<hr/>
+
+<!-- ?? CONTACT WITH ISLAMIC TOUCH -->
+<h1 align="center">?? Let's Connect ????</h1>
+
+<div align="center">
+  <p>
+    <i>"And hold firmly to the rope of Allah all together and do not become divided"</i> <br>
+    <b>(Quran 3:103)</b>
+  </p>
+  
+  <a href="https://www.youtube.com/@faheemhacker8183">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/OWNER_BLACK_MARKET">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <!-- Pakistani Flag Animation -->
+  <br><br>
+  <img src="https://media.giphy.com/media/XeHHLS0eD
